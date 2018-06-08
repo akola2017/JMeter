@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1527421267426,161,37 /,200,OK,Thread Group 1-2,text,true,,7949,416,19,19,145,0,77
+1527421267426,162,37 /,200,OK,Thread Group 1-4,text,true,,7949,416,19,19,146,0,78
+1527421267458,130,37 /,200,OK,Thread Group 1-9,text,true,,7949,416,19,19,115,0,48
+1527421267426,161,37 /,200,OK,Thread Group 1-1,text,true,,7949,416,19,19,145,0,77
+1527421267484,104,37 /,200,OK,Thread Group 1-8,text,true,,7949,416,19,19,89,0,21
+1527421267495,97,37 /,200,OK,Thread Group 1-12,text,true,,7949,416,19,19,77,0,9
+1527421267431,156,37 /,200,OK,Thread Group 1-7,text,true,,7949,416,19,19,141,0,74
+1527421267447,142,37 /,200,OK,Thread Group 1-5,text,true,,7949,416,19,19,126,0,58
+1527421267426,162,37 /,200,OK,Thread Group 1-3,text,true,,7949,416,19,19,146,0,79
+1527421267503,97,37 /,200,OK,Thread Group 1-13,text,true,,7949,416,21,21,70,0,1
+1527421267512,97,37 /,200,OK,Thread Group 1-14,text,true,,7949,416,21,21,68,0,1
+1527421267514,96,37 /,200,OK,Thread Group 1-11,text,true,,7949,416,21,21,67,0,1
+1527421267526,96,37 /,200,OK,Thread Group 1-15,text,true,,7949,416,22,22,67,0,1
+1527421267590,46,38 /reserve.php,200,OK,Thread Group 1-4,text,true,,10563,588,23,23,45,0,0
+1527421267593,44,38 /reserve.php,200,OK,Thread Group 1-12,text,true,,10603,593,23,23,43,0,0
+1527421267538,100,37 /,200,OK,Thread Group 1-16,text,true,,7949,416,23,23,69,0,1
+1527421267594,44,38 /reserve.php,200,OK,Thread Group 1-7,text,true,,10627,602,23,23,44,0,0
+1527421267592,47,38 /reserve.php,200,OK,Thread Group 1-2,text,true,,10587,591,23,23,47,0,0
+1527421267596,44,38 /reserve.php,200,OK,Thread Group 1-5,text,true,,10587,591,23,23,40,0,0
+1527421267591,51,38 /reserve.php,200,OK,Thread Group 1-9,text,true,,10563,588,24,24,51,0,0
+1527421267597,45,38 /reserve.php,200,OK,Thread Group 1-3,text,true,,10603,593,24,24,45,0,0
+1527421267591,52,38 /reserve.php,200,OK,Thread Group 1-1,text,true,,10627,602,24,24,52,0,0
+1527421267592,52,38 /reserve.php,200,OK,Thread Group 1-8,text,true,,10580,590,24,24,52,0,0
+1527421267601,44,38 /reserve.php,200,OK,Thread Group 1-13,text,true,,10627,602,24,24,44,0,0
+1527421267610,38,38 /reserve.php,200,OK,Thread Group 1-14,text,true,,10563,588,24,24,38,0,0
+1527421267551,97,37 /,200,OK,Thread Group 1-17,text,true,,7949,416,24,24,69,0,1
+1527421267611,38,38 /reserve.php,200,OK,Thread Group 1-11,text,true,,10579,590,24,24,38,0,0
+1527421267622,39,38 /reserve.php,200,OK,Thread Group 1-15,text,true,,10603,593,25,25,38,0,0
+1527421267565,98,37 /,200,OK,Thread Group 1-18,text,true,,7949,416,26,26,71,0,3
+1527421267575,99,37 /,200,OK,Thread Group 1-19,text,true,,7949,416,26,26,70,0,1
+1527421267636,39,39 /purchase.php,200,OK,Thread Group 1-4,text,true,,9968,659,26,26,39,0,0
+1527421267637,40,39 /purchase.php,200,OK,Thread Group 1-12,text,true,,9970,661,26,26,40,0,0
+1527421267638,40,38 /reserve.php,200,OK,Thread Group 1-16,text,true,,10627,602,26,26,38,0,0
+1527421267639,40,39 /purchase.php,200,OK,Thread Group 1-7,text,true,,9974,665,26,26,40,0,0
+1527421267641,39,39 /purchase.php,200,OK,Thread Group 1-5,text,true,,9966,657,26,26,39,0,0
+1527421267642,40,39 /purchase.php,200,OK,Thread Group 1-9,text,true,,9968,659,26,26,40,0,0
+1527421267643,40,39 /purchase.php,200,OK,Thread Group 1-3,text,true,,9970,661,26,26,40,0,0
+1527421267644,39,39 /purchase.php,200,OK,Thread Group 1-8,text,true,,9968,659,26,26,39,0,0
+1527421267645,39,39 /purchase.php,200,OK,Thread Group 1-13,text,true,,9974,665,26,26,39,0,0
+1527421267644,41,39 /purchase.php,200,OK,Thread Group 1-1,text,true,,9974,665,26,26,41,0,0
+1527421267648,38,39 /purchase.php,200,OK,Thread Group 1-14,text,true,,9968,659,27,27,38,0,0
+1527421267649,38,38 /reserve.php,200,OK,Thread Group 1-17,text,true,,10587,591,27,27,38,0,0
+1527421267649,39,39 /purchase.php,200,OK,Thread Group 1-11,text,true,,9968,659,27,27,39,0,0
+1527421267597,98,37 /,200,OK,Thread Group 1-20,text,true,,7949,416,28,28,69,0,2
+1527421267601,96,37 /,200,OK,Thread Group 1-21,text,true,,7949,416,28,28,67,0,1
+1527421267662,39,39 /purchase.php,200,OK,Thread Group 1-15,text,true,,9970,661,28,28,39,0,0
+1527421267664,38,38 /reserve.php,200,OK,Thread Group 1-18,text,true,,10563,588,28,28,38,0,0
+1527421267678,39,39 /purchase.php,200,OK,Thread Group 1-16,text,true,,9974,665,29,29,39,0,0
+1527421267676,38,40 /confirmation.php,200,OK,Thread Group 1-4,text,true,,9004,713,29,29,38,0,0
+1527421267677,39,40 /confirmation.php,200,OK,Thread Group 1-12,text,true,,9004,714,29,29,38,0,0
+1527421267680,38,40 /confirmation.php,200,OK,Thread Group 1-7,text,true,,9004,713,29,29,38,0,0
+1527421267680,40,40 /confirmation.php,200,OK,Thread Group 1-5,text,true,,9004,713,30,30,40,0,0
+1527421267682,39,40 /confirmation.php,200,OK,Thread Group 1-9,text,true,,9004,713,30,30,39,0,0
+1527421267684,38,40 /confirmation.php,200,OK,Thread Group 1-8,text,true,,9004,714,30,30,38,0,0
+1527421267687,38,40 /confirmation.php,200,OK,Thread Group 1-14,text,true,,9004,713,30,30,37,0,0
+1527421267686,39,40 /confirmation.php,200,OK,Thread Group 1-1,text,true,,9004,713,30,30,39,0,0
+1527421267688,38,40 /confirmation.php,200,OK,Thread Group 1-11,text,true,,9004,714,30,30,38,0,0
+1527421267687,40,39 /purchase.php,200,OK,Thread Group 1-17,text,true,,9966,657,30,30,39,0,0
+1527421267695,38,38 /reserve.php,200,OK,Thread Group 1-20,text,true,,10603,593,30,30,37,0,0
+1527421267698,37,38 /reserve.php,200,OK,Thread Group 1-21,text,true,,10627,602,30,30,37,0,0
+1527421267632,105,37 /,200,OK,Thread Group 1-23,text,true,,7950,416,30,30,76,0,1
+1527421267641,97,37 /,200,OK,Thread Group 1-24,text,true,,7949,416,30,30,68,0,1
+1527421267702,38,40 /confirmation.php,200,OK,Thread Group 1-15,text,true,,9004,714,30,30,38,0,0
+1527421267703,39,39 /purchase.php,200,OK,Thread Group 1-18,text,true,,9968,659,30,30,38,0,0
+1527421267657,97,37 /,200,OK,Thread Group 1-25,text,true,,7949,416,31,31,68,0,1
+1527421267718,40,40 /confirmation.php,200,OK,Thread Group 1-16,text,true,,9004,713,31,31,40,0,0
+1527421267717,39,Logowanie,200,OK,Thread Group 1-4,text,true,,10343,122,31,31,39,0,0
+1527421267719,40,Logowanie,200,OK,Thread Group 1-7,text,true,,10335,122,30,30,40,0,0
+1527421267718,43,Logowanie,200,OK,Thread Group 1-12,text,true,,10339,122,29,29,40,0,0
+1527421267663,100,37 /,200,OK,Thread Group 1-26,text,true,,7949,416,28,28,67,0,0
+1527421267721,41,Logowanie,200,OK,Thread Group 1-5,text,true,,10335,122,28,28,41,0,0
+1527421267723,41,Logowanie,200,OK,Thread Group 1-8,text,true,,10345,122,28,28,41,0,0
+1527421267722,43,Logowanie,200,OK,Thread Group 1-9,text,true,,10341,122,26,26,43,0,0
+1527421267725,40,Logowanie,200,OK,Thread Group 1-14,text,true,,10341,122,26,26,40,0,0
+1527421267727,39,40 /confirmation.php,200,OK,Thread Group 1-17,text,true,,9004,713,24,24,39,0,0
+1527421267727,40,Logowanie,200,OK,Thread Group 1-11,text,true,,10339,122,24,24,40,0,0
+1527421267733,38,39 /purchase.php,200,OK,Thread Group 1-20,text,true,,9970,661,24,24,38,0,0
+1527421267736,37,39 /purchase.php,200,OK,Thread Group 1-21,text,true,,9974,665,25,25,37,0,0
+1527421267737,38,38 /reserve.php,200,OK,Thread Group 1-23,text,true,,10563,588,25,25,38,0,0
+1527421267738,38,38 /reserve.php,200,OK,Thread Group 1-24,text,true,,10579,590,25,25,38,0,0
+1527421267742,37,40 /confirmation.php,200,OK,Thread Group 1-18,text,true,,9004,713,25,25,37,0,0
+1527421267741,39,Logowanie,200,OK,Thread Group 1-15,text,true,,10341,122,25,25,39,0,0
+1527421267686,97,37 /,200,OK,Thread Group 1-27,text,true,,7949,416,24,24,68,0,2
+1527421267690,97,37 /,200,OK,Thread Group 1-28,text,true,,7949,416,24,24,72,0,1
+1527421267426,361,37 /,200,OK,Thread Group 1-6,text,true,,7949,416,24,24,146,0,77
+1527421267754,38,38 /reserve.php,200,OK,Thread Group 1-25,text,true,,10603,593,25,25,38,0,0
+1527421267763,39,38 /reserve.php,200,OK,Thread Group 1-26,text,true,,10627,602,26,26,38,0,0
+1527421267707,96,37 /,200,OK,Thread Group 1-29,text,true,,7949,416,26,26,66,0,1
+1527421267510,299,37 /,200,OK,Thread Group 1-10,text,true,,7949,416,26,26,68,0,1
+1527421267771,39,40 /confirmation.php,200,OK,Thread Group 1-20,text,true,,9004,714,26,26,39,0,0
+1527421267773,39,40 /confirmation.php,200,OK,Thread Group 1-21,text,true,,9004,713,26,26,38,0,0
+1527421267776,38,39 /purchase.php,200,OK,Thread Group 1-23,text,true,,9968,659,26,26,37,0,0
+1527421267777,39,39 /purchase.php,200,OK,Thread Group 1-24,text,true,,9968,659,26,26,38,0,0
+1527421267720,97,37 /,200,OK,Thread Group 1-30,text,true,,7949,416,27,27,68,0,1
+1527421267780,41,Logowanie,200,OK,Thread Group 1-18,text,true,,10335,122,27,27,40,0,0
+1527421267783,39,38 /reserve.php,200,OK,Thread Group 1-27,text,true,,10587,591,26,26,39,0,0
+1527421267787,38,38 /reserve.php,200,OK,Thread Group 1-28,text,true,,10563,588,26,26,38,0,0
+1527421267789,38,38 /reserve.php,200,OK,Thread Group 1-6,text,true,,10579,590,27,27,38,0,0
+1527421267793,38,39 /purchase.php,200,OK,Thread Group 1-25,text,true,,9970,661,27,27,37,0,0
+1527421267803,38,38 /reserve.php,200,OK,Thread Group 1-29,text,true,,10579,590,28,28,38,0,0
+1527421267802,40,39 /purchase.php,200,OK,Thread Group 1-26,text,true,,9974,665,28,28,40,0,0
+1527421267747,96,37 /,200,OK,Thread Group 1-32,text,true,,7949,416,28,28,67,0,1
+1527421267810,37,38 /reserve.php,200,OK,Thread Group 1-10,text,true,,10587,591,28,28,36,0,0
+1527421267811,38,Logowanie,200,OK,Thread Group 1-20,text,true,,10343,122,28,28,38,0,0
+1527421267812,39,Logowanie,200,OK,Thread Group 1-21,text,true,,10335,122,28,28,39,0,0
+1527421267814,40,40 /confirmation.php,200,OK,Thread Group 1-23,text,true,,9004,713,27,27,39,0,0
+1527421267816,39,40 /confirmation.php,200,OK,Thread Group 1-24,text,true,,9004,714,27,27,39,0,0
+1527421267818,37,38 /reserve.php,200,OK,Thread Group 1-30,text,true,,10603,593,27,27,37,0,0
+1527421267823,39,39 /purchase.php,200,OK,Thread Group 1-27,text,true,,9966,657,27,27,38,0,0
+1527421267826,38,39 /purchase.php,200,OK,Thread Group 1-28,text,true,,9968,659,27,27,37,0,0
+1527421267828,38,39 /purchase.php,200,OK,Thread Group 1-6,text,true,,9968,659,28,28,38,0,0
+1527421267831,38,40 /confirmation.php,200,OK,Thread Group 1-25,text,true,,9004,714,28,28,38,0,0
+1527421267773,97,37 /,200,OK,Thread Group 1-34,text,true,,7949,416,28,28,68,0,1
+1527421267639,240,39 /purchase.php,200,OK,Thread Group 1-2,text,true,,9966,657,29,29,40,0,0
+1527421267841,39,39 /purchase.php,200,OK,Thread Group 1-29,text,true,,9968,659,29,29,39,0,0
+1527421267842,38,40 /confirmation.php,200,OK,Thread Group 1-26,text,true,,9004,713,29,29,38,0,0
+1527421267844,37,38 /reserve.php,200,OK,Thread Group 1-32,text,true,,10627,602,29,29,37,0,0
+1527421267847,39,39 /purchase.php,200,OK,Thread Group 1-10,text,true,,9966,657,29,29,39,0,0
+1527421267791,97,37 /,200,OK,Thread Group 1-33,text,true,,7949,416,29,29,68,0,1
+1527421267855,39,39 /purchase.php,200,OK,Thread Group 1-30,text,true,,9970,661,30,30,39,0,0
+1527421267854,40,Logowanie,200,OK,Thread Group 1-23,text,true,,10341,122,30,30,40,0,0
+1527421267798,97,37 /,200,OK,Thread Group 1-36,text,true,,7949,416,29,29,68,0,1
+1527421267862,38,40 /confirmation.php,200,OK,Thread Group 1-27,text,true,,9004,713,29,29,37,0,0
+1527421267864,40,40 /confirmation.php,200,OK,Thread Group 1-28,text,true,,9004,713,29,29,40,0,0
+1527421267867,38,40 /confirmation.php,200,OK,Thread Group 1-6,text,true,,9004,714,30,30,38,0,0
+1527421267612,297,37 /,200,OK,Thread Group 1-22,text,true,,7949,416,30,30,68,0,1
+1527421267870,39,38 /reserve.php,200,OK,Thread Group 1-34,text,true,,10563,588,30,30,38,0,0
+1527421267870,40,Logowanie,200,OK,Thread Group 1-25,text,true,,10337,122,30,30,40,0,0
+1527421267817,97,37 /,200,OK,Thread Group 1-35,text,true,,7949,416,29,29,68,0,1
+1527421267879,39,40 /confirmation.php,200,OK,Thread Group 1-2,text,true,,9004,713,30,30,38,0,0
+1527421267882,37,40 /confirmation.php,200,OK,Thread Group 1-29,text,true,,9004,714,30,30,37,0,0
+1527421267881,39,39 /purchase.php,200,OK,Thread Group 1-32,text,true,,9974,665,30,30,38,0,0
+1527421267826,96,37 /,200,OK,Thread Group 1-38,text,true,,7949,416,30,30,68,0,1
+1527421267887,38,40 /confirmation.php,200,OK,Thread Group 1-10,text,true,,9004,713,30,30,38,0,0
+1527421267683,243,40 /confirmation.php,200,OK,Thread Group 1-3,text,true,,9004,714,30,30,39,0,0
+1527421267889,38,38 /reserve.php,200,OK,Thread Group 1-33,text,true,,10579,590,30,30,38,0,0
+1527421267894,38,40 /confirmation.php,200,OK,Thread Group 1-30,text,true,,9004,714,31,31,38,0,0
+1527421267685,248,40 /confirmation.php,200,OK,Thread Group 1-13,text,true,,9004,713,31,31,37,0,0
+1527421267895,39,38 /reserve.php,200,OK,Thread Group 1-36,text,true,,10603,593,31,31,38,0,0
+1527421267841,96,37 /,200,OK,Thread Group 1-37,text,true,,7949,416,31,31,68,0,1
+1527421267901,39,Logowanie,200,OK,Thread Group 1-27,text,true,,10349,122,31,31,39,0,0
+1527421267905,40,Logowanie,200,OK,Thread Group 1-6,text,true,,10341,122,31,31,40,0,0
+1527421267904,42,Logowanie,200,OK,Thread Group 1-28,text,true,,10343,122,30,30,41,0,0
+1527421267909,38,38 /reserve.php,200,OK,Thread Group 1-22,text,true,,10587,591,29,29,38,0,0
+1527421267910,38,39 /purchase.php,200,OK,Thread Group 1-34,text,true,,9968,659,29,29,38,0,0
+1527421267852,96,37 /,200,OK,Thread Group 1-40,text,true,,7949,416,29,29,67,0,0
+1527421267915,38,38 /reserve.php,200,OK,Thread Group 1-35,text,true,,10627,602,29,29,37,0,0
+1527421267918,39,Logowanie,200,OK,Thread Group 1-2,text,true,,10335,122,29,29,39,0,0
+1527421267920,39,40 /confirmation.php,200,OK,Thread Group 1-32,text,true,,9004,713,29,29,39,0,0
+1527421267920,40,Logowanie,200,OK,Thread Group 1-29,text,true,,10335,122,29,29,39,0,0
+1527421267923,38,38 /reserve.php,200,OK,Thread Group 1-38,text,true,,10587,591,28,28,37,0,0
+1527421267866,97,37 /,200,OK,Thread Group 1-39,text,true,,7949,416,28,28,67,0,1
+1527421267926,39,Logowanie,200,OK,Thread Group 1-10,text,true,,10333,122,28,28,38,0,0
+1527421267927,40,Logowanie,200,OK,Thread Group 1-3,text,true,,10339,122,27,27,39,0,0
+1527421267726,244,Logowanie,200,OK,Thread Group 1-1,text,true,,10343,122,27,27,40,0,0
+1527421267933,38,Logowanie,200,OK,Thread Group 1-13,text,true,,10335,122,26,26,38,0,0
+1527421267934,39,39 /purchase.php,200,OK,Thread Group 1-36,text,true,,9970,661,25,25,39,0,0
+1527421267878,95,37 /,200,OK,Thread Group 1-42,text,true,,7949,416,25,25,66,0,1
+1527421267932,42,Logowanie,200,OK,Thread Group 1-30,text,true,,10337,122,25,25,42,0,0
+1527421267937,38,38 /reserve.php,200,OK,Thread Group 1-37,text,true,,10563,588,24,24,38,0,0
+1527421267948,38,39 /purchase.php,200,OK,Thread Group 1-22,text,true,,9966,657,25,25,38,0,0
+1527421267891,96,37 /,200,OK,Thread Group 1-41,text,true,,7949,416,25,25,67,0,1
+1527421267949,38,38 /reserve.php,200,OK,Thread Group 1-40,text,true,,10579,590,25,25,38,0,0
+1527421267948,40,40 /confirmation.php,200,OK,Thread Group 1-34,text,true,,9004,713,25,25,40,0,0
+1527421267961,38,39 /purchase.php,200,OK,Thread Group 1-38,text,true,,9966,657,26,26,38,0,0
+1527421267959,40,Logowanie,200,OK,Thread Group 1-32,text,true,,10337,122,26,26,39,0,0
+1527421267963,38,38 /reserve.php,200,OK,Thread Group 1-39,text,true,,10603,593,25,25,37,0,0
+1527421267905,97,37 /,200,OK,Thread Group 1-44,text,true,,7949,416,25,25,67,0,1
+1527421267758,252,Logowanie,200,OK,Thread Group 1-16,text,true,,10345,122,25,25,39,0,0
+1527421267767,244,Logowanie,200,OK,Thread Group 1-17,text,true,,10343,122,24,24,40,0,0
+1527421267974,37,38 /reserve.php,200,OK,Thread Group 1-42,text,true,,10627,602,24,24,37,0,0
+1527421267973,39,40 /confirmation.php,200,OK,Thread Group 1-36,text,true,,9004,714,24,24,39,0,0
+1527421267917,97,37 /,200,OK,Thread Group 1-43,text,true,,7949,416,24,24,68,0,1
+1527421267975,39,39 /purchase.php,200,OK,Thread Group 1-37,text,true,,9968,659,24,24,39,0,0
+1527421267986,39,40 /confirmation.php,200,OK,Thread Group 1-22,text,true,,9004,713,25,25,38,0,0
+1527421267987,39,39 /purchase.php,200,OK,Thread Group 1-40,text,true,,9968,659,25,25,38,0,0
+1527421267987,40,38 /reserve.php,200,OK,Thread Group 1-41,text,true,,10587,591,25,25,40,0,0
+1527421267930,98,37 /,200,OK,Thread Group 1-46,text,true,,7949,416,25,25,68,0,1
+1527421268001,38,39 /purchase.php,200,OK,Thread Group 1-39,text,true,,9970,661,26,26,38,0,0
+1527421268002,38,38 /reserve.php,200,OK,Thread Group 1-44,text,true,,10563,588,26,26,37,0,0
+1527421267988,64,Logowanie,200,OK,Thread Group 1-34,text,true,,10345,122,27,27,64,0,0
+1527421268012,41,39 /purchase.php,200,OK,Thread Group 1-42,text,true,,9974,665,26,26,41,0,0
+1527421268014,40,38 /reserve.php,200,OK,Thread Group 1-43,text,true,,10579,590,26,26,40,0,0
+1527421268013,40,Logowanie,200,OK,Thread Group 1-36,text,true,,10341,122,26,26,38,0,0
+1527421267943,121,37 /,200,OK,Thread Group 1-45,text,true,,7949,416,26,26,70,0,2
+1527421268014,51,40 /confirmation.php,200,OK,Thread Group 1-37,text,true,,9004,713,26,26,51,0,0
+1527421268027,39,40 /confirmation.php,200,OK,Thread Group 1-40,text,true,,9004,714,26,26,39,0,0
+1527421267967,100,37 /,200,OK,Thread Group 1-47,text,true,,7949,416,26,26,71,0,1
+1527421268027,41,39 /purchase.php,200,OK,Thread Group 1-41,text,true,,9966,657,26,26,40,0,0
+1527421267768,310,37 /,200,OK,Thread Group 1-31,text,true,,7949,416,27,27,68,0,1
+1527421268041,39,39 /purchase.php,200,OK,Thread Group 1-44,text,true,,9968,659,27,27,38,0,0
+1527421267959,121,37 /,200,OK,Thread Group 1-48,text,true,,7949,416,27,27,92,0,1
+1527421268029,56,38 /reserve.php,200,OK,Thread Group 1-46,text,true,,10603,593,27,27,55,0,0
+1527421268039,45,40 /confirmation.php,200,OK,Thread Group 1-39,text,true,,9004,714,27,27,45,0,0
+1527421268054,37,40 /confirmation.php,200,OK,Thread Group 1-42,text,true,,9004,713,28,28,37,0,0
+1527421267856,236,Logowanie,200,OK,Thread Group 1-24,text,true,,10335,122,28,28,40,0,0
+1527421268054,39,39 /purchase.php,200,OK,Thread Group 1-43,text,true,,9968,659,27,27,38,0,0
+1527421267985,110,37 /,200,OK,Thread Group 1-50,text,true,,7949,416,28,28,80,0,1
+1527421268065,38,38 /reserve.php,200,OK,Thread Group 1-45,text,true,,10627,602,28,28,38,0,0
+1527421268067,39,Logowanie,200,OK,Thread Group 1-40,text,true,,10341,122,28,28,38,0,0
+1527421268067,39,38 /reserve.php,200,OK,Thread Group 1-47,text,true,,10563,588,28,28,38,0,0
+1527421268068,40,40 /confirmation.php,200,OK,Thread Group 1-41,text,true,,9004,713,27,27,39,0,0
+1527421267993,121,37 /,200,OK,Thread Group 1-49,text,true,,7949,416,27,27,91,0,1
+1527421268013,101,37 /,200,OK,Thread Group 1-52,text,true,,7949,416,27,27,72,0,2
+1527421268080,38,40 /confirmation.php,200,OK,Thread Group 1-44,text,true,,9004,713,28,28,37,0,0
+1527421268081,37,38 /reserve.php,200,OK,Thread Group 1-48,text,true,,10587,591,28,28,37,0,0
+1527421268079,40,38 /reserve.php,200,OK,Thread Group 1-31,text,true,,10587,591,28,28,38,0,0
+1527421268085,39,39 /purchase.php,200,OK,Thread Group 1-46,text,true,,9970,661,29,29,38,0,0
+1527421268091,39,Logowanie,200,OK,Thread Group 1-42,text,true,,10337,122,29,29,39,0,0
+1527421267881,250,Logowanie,200,OK,Thread Group 1-26,text,true,,10333,122,28,28,38,0,0
+1527421268017,115,37 /,200,OK,Thread Group 1-51,text,true,,7949,416,27,27,86,0,1
+1527421268093,39,40 /confirmation.php,200,OK,Thread Group 1-43,text,true,,9004,714,27,27,39,0,0
+1527421268095,38,38 /reserve.php,200,OK,Thread Group 1-50,text,true,,10579,590,27,27,38,0,0
+1527421268037,99,37 /,200,OK,Thread Group 1-54,text,true,,7949,416,27,27,70,0,1
+1527421268044,98,37 /,200,OK,Thread Group 1-53,text,true,,7949,416,27,27,69,0,0
+1527421268104,40,39 /purchase.php,200,OK,Thread Group 1-45,text,true,,9974,665,28,28,39,0,0
+1527421268107,39,39 /purchase.php,200,OK,Thread Group 1-47,text,true,,9968,659,29,29,39,0,0
+1527421268115,37,38 /reserve.php,200,OK,Thread Group 1-52,text,true,,10627,602,29,29,37,0,0
+1527421268115,38,38 /reserve.php,200,OK,Thread Group 1-49,text,true,,10603,593,29,29,37,0,0
+1527421268118,38,Logowanie,200,OK,Thread Group 1-44,text,true,,10341,122,29,29,38,0,0
+1527421268119,39,39 /purchase.php,200,OK,Thread Group 1-31,text,true,,9966,657,28,28,39,0,0
+1527421268063,97,37 /,200,OK,Thread Group 1-56,text,true,,7949,416,28,28,68,0,1
+1527421268124,39,40 /confirmation.php,200,OK,Thread Group 1-46,text,true,,9004,714,28,28,38,0,0
+1527421267927,236,39 /purchase.php,200,OK,Thread Group 1-33,text,true,,9968,659,28,28,41,0,0
+1527421268069,97,37 /,200,OK,Thread Group 1-55,text,true,,7949,416,28,28,68,0,1
+1527421268132,39,38 /reserve.php,200,OK,Thread Group 1-51,text,true,,10587,591,30,30,38,0,0
+1527421268134,39,39 /purchase.php,200,OK,Thread Group 1-50,text,true,,9968,659,30,30,38,0,0
+1527421268136,39,38 /reserve.php,200,OK,Thread Group 1-54,text,true,,10563,588,30,30,38,0,0
+1527421268144,38,40 /confirmation.php,200,OK,Thread Group 1-45,text,true,,9004,713,30,30,38,0,0
+1527421268143,39,38 /reserve.php,200,OK,Thread Group 1-53,text,true,,10579,590,30,30,39,0,0
+1527421268147,37,40 /confirmation.php,200,OK,Thread Group 1-47,text,true,,9004,713,30,30,37,0,0
+1527421268090,97,37 /,200,OK,Thread Group 1-58,text,true,,7949,416,30,30,67,0,1
+1527421268093,96,37 /,200,OK,Thread Group 1-57,text,true,,7949,416,30,30,67,0,1
+1527421268153,38,39 /purchase.php,200,OK,Thread Group 1-52,text,true,,9974,665,30,30,37,0,0
+1527421268153,39,39 /purchase.php,200,OK,Thread Group 1-49,text,true,,9970,661,30,30,39,0,0
+1527421268158,38,40 /confirmation.php,200,OK,Thread Group 1-31,text,true,,9004,713,31,31,38,0,0
+1527421268161,38,38 /reserve.php,200,OK,Thread Group 1-56,text,true,,10603,593,32,32,38,0,0
+1527421267953,247,39 /purchase.php,200,OK,Thread Group 1-35,text,true,,9974,665,32,32,39,0,0
+1527421268164,38,40 /confirmation.php,200,OK,Thread Group 1-33,text,true,,9004,714,32,32,37,0,0
+1527421268163,40,Logowanie,200,OK,Thread Group 1-46,text,true,,10341,122,32,32,40,0,0
+1527421268167,38,38 /reserve.php,200,OK,Thread Group 1-55,text,true,,10627,602,31,31,38,0,0
+1527421268171,39,39 /purchase.php,200,OK,Thread Group 1-51,text,true,,9966,657,31,31,39,0,0
+1527421268173,38,40 /confirmation.php,200,OK,Thread Group 1-50,text,true,,9004,714,31,31,38,0,0
+1527421268116,97,37 /,200,OK,Thread Group 1-60,text,true,,7949,416,31,31,68,0,0
+1527421268175,39,39 /purchase.php,200,OK,Thread Group 1-54,text,true,,9968,659,31,31,39,0,0
+1527421268120,97,37 /,200,OK,Thread Group 1-59,text,true,,7949,416,31,31,68,0,1
+1527421268183,39,39 /purchase.php,200,OK,Thread Group 1-53,text,true,,9968,659,32,32,38,0,0
+1527421268187,37,38 /reserve.php,200,OK,Thread Group 1-58,text,true,,10587,591,32,32,37,0,0
+1527421268190,40,38 /reserve.php,200,OK,Thread Group 1-57,text,true,,10563,588,33,33,40,0,0
+1527421268192,40,40 /confirmation.php,200,OK,Thread Group 1-49,text,true,,9004,714,33,33,40,0,0
+1527421268191,41,40 /confirmation.php,200,OK,Thread Group 1-52,text,true,,9004,713,33,33,41,0,0
+1527421267999,237,40 /confirmation.php,200,OK,Thread Group 1-38,text,true,,9004,713,33,33,39,0,0
+1527421268199,38,39 /purchase.php,200,OK,Thread Group 1-56,text,true,,9970,661,33,33,38,0,0
+1527421268197,41,Logowanie,200,OK,Thread Group 1-31,text,true,,10335,122,33,33,41,0,0
+1527421268200,39,40 /confirmation.php,200,OK,Thread Group 1-35,text,true,,9004,713,32,32,38,0,0
+1527421268143,96,37 /,200,OK,Thread Group 1-62,text,true,,7949,416,32,32,68,0,1
+1527421268144,97,37 /,200,OK,Thread Group 1-61,text,true,,7949,416,32,32,68,0,1
+1527421268205,38,39 /purchase.php,200,OK,Thread Group 1-55,text,true,,9974,665,32,32,38,0,0
+1527421268210,39,40 /confirmation.php,200,OK,Thread Group 1-51,text,true,,9004,713,34,34,38,0,0
+1527421268214,42,38 /reserve.php,200,OK,Thread Group 1-60,text,true,,10579,590,34,34,41,0,0
+1527421268217,39,38 /reserve.php,200,OK,Thread Group 1-59,text,true,,10603,593,34,34,38,0,0
+1527421268215,41,40 /confirmation.php,200,OK,Thread Group 1-54,text,true,,9004,713,34,34,41,0,0
+1527421268223,39,40 /confirmation.php,200,OK,Thread Group 1-53,text,true,,9004,714,34,34,38,0,0
+1527421268224,39,39 /purchase.php,200,OK,Thread Group 1-58,text,true,,9966,657,34,34,39,0,0
+1527421268169,98,37 /,200,OK,Thread Group 1-64,text,true,,7949,416,34,34,68,0,0
+1527421268170,99,37 /,200,OK,Thread Group 1-63,text,true,,7949,416,34,34,69,0,1
+1527421268231,39,39 /purchase.php,200,OK,Thread Group 1-57,text,true,,9968,659,34,34,38,0,0
+1527421268232,40,Logowanie,200,OK,Thread Group 1-49,text,true,,10337,122,34,34,38,0,0
+1527421268238,39,40 /confirmation.php,200,OK,Thread Group 1-56,text,true,,9004,714,35,35,38,0,0
+1527421268237,40,Logowanie,200,OK,Thread Group 1-38,text,true,,10335,122,35,35,39,0,0
+1527421268241,37,38 /reserve.php,200,OK,Thread Group 1-61,text,true,,10587,591,34,34,37,0,0
+1527421268239,39,Logowanie,200,OK,Thread Group 1-35,text,true,,10343,122,34,34,39,0,0
+1527421268240,39,38 /reserve.php,200,OK,Thread Group 1-62,text,true,,10627,602,33,33,38,0,0
+1527421268026,256,Logowanie,200,OK,Thread Group 1-22,text,true,,10337,122,33,33,64,0,0
+1527421268243,39,40 /confirmation.php,200,OK,Thread Group 1-55,text,true,,9004,713,32,32,39,0,0
+1527421268249,40,Logowanie,200,OK,Thread Group 1-51,text,true,,10339,122,32,32,39,0,0
+1527421268195,97,37 /,200,OK,Thread Group 1-66,text,true,,7949,416,31,31,68,0,1
+1527421268256,38,39 /purchase.php,200,OK,Thread Group 1-60,text,true,,9968,659,31,31,38,0,0
+1527421268198,97,37 /,200,OK,Thread Group 1-65,text,true,,7949,416,31,31,68,0,1
+1527421268256,39,39 /purchase.php,200,OK,Thread Group 1-59,text,true,,9970,661,31,31,39,0,0
+1527421268066,235,Logowanie,200,OK,Thread Group 1-37,text,true,,10335,122,33,33,39,0,0
+1527421268262,40,Logowanie,200,OK,Thread Group 1-53,text,true,,10335,122,32,32,39,0,0
+1527421268264,38,40 /confirmation.php,200,OK,Thread Group 1-58,text,true,,9004,713,32,32,38,0,0
+1527421268267,38,38 /reserve.php,200,OK,Thread Group 1-64,text,true,,10563,588,31,31,37,0,0
+1527421268269,38,38 /reserve.php,200,OK,Thread Group 1-63,text,true,,10579,590,31,31,37,0,0
+1527421268270,37,40 /confirmation.php,200,OK,Thread Group 1-57,text,true,,9004,713,31,31,37,0,0
+1527421268279,38,39 /purchase.php,200,OK,Thread Group 1-62,text,true,,9974,665,31,31,38,0,0
+1527421268278,40,39 /purchase.php,200,OK,Thread Group 1-61,text,true,,9966,657,31,31,39,0,0
+1527421268221,98,37 /,200,OK,Thread Group 1-68,text,true,,7949,416,31,31,68,0,2
+1527421268283,39,Logowanie,200,OK,Thread Group 1-55,text,true,,10339,122,31,31,38,0,0
+1527421268225,98,37 /,200,OK,Thread Group 1-67,text,true,,7949,416,30,30,69,0,2
+1527421268293,39,38 /reserve.php,200,OK,Thread Group 1-66,text,true,,10603,593,32,32,39,0,0
+1527421268085,248,Logowanie,200,OK,Thread Group 1-39,text,true,,10333,122,32,32,39,0,0
+1527421268295,39,40 /confirmation.php,200,OK,Thread Group 1-60,text,true,,9004,714,31,31,38,0,0
+1527421268295,40,38 /reserve.php,200,OK,Thread Group 1-65,text,true,,10627,602,31,31,40,0,0
+1527421268296,39,40 /confirmation.php,200,OK,Thread Group 1-59,text,true,,9004,714,31,31,39,0,0
+1527421268108,233,Logowanie,200,OK,Thread Group 1-41,text,true,,10337,122,31,31,40,0,0
+1527421268303,39,Logowanie,200,OK,Thread Group 1-58,text,true,,10337,122,31,31,38,0,0
+1527421268305,39,39 /purchase.php,200,OK,Thread Group 1-64,text,true,,9968,659,29,29,38,0,0
+1527421268247,98,37 /,200,OK,Thread Group 1-69,text,true,,7949,416,29,29,69,0,2
+1527421268248,97,37 /,200,OK,Thread Group 1-70,text,true,,7949,416,29,29,68,0,1
+1527421268307,39,39 /purchase.php,200,OK,Thread Group 1-63,text,true,,9968,659,29,29,39,0,0
+1527421268318,38,40 /confirmation.php,200,OK,Thread Group 1-61,text,true,,9004,713,31,31,38,0,0
+1527421268318,39,40 /confirmation.php,200,OK,Thread Group 1-62,text,true,,9004,713,31,31,38,0,0
+1527421268319,38,38 /reserve.php,200,OK,Thread Group 1-68,text,true,,10587,591,31,31,38,0,0
+1527421268118,243,39 /purchase.php,200,OK,Thread Group 1-48,text,true,,9966,657,31,31,40,0,0
+1527421268323,38,38 /reserve.php,200,OK,Thread Group 1-67,text,true,,10563,588,31,31,37,0,0
+1527421268274,98,37 /,200,OK,Thread Group 1-72,text,true,,7949,416,31,31,68,0,3
+1527421268335,38,Logowanie,200,OK,Thread Group 1-60,text,true,,10337,122,31,31,38,0,0
+1527421268274,100,37 /,200,OK,Thread Group 1-71,text,true,,7949,416,31,31,70,0,2
+1527421268335,39,39 /purchase.php,200,OK,Thread Group 1-65,text,true,,9974,665,30,30,39,0,0
+1527421268132,246,Logowanie,200,OK,Thread Group 1-43,text,true,,10337,122,32,32,40,0,0
+1527421268345,37,38 /reserve.php,200,OK,Thread Group 1-69,text,true,,10579,590,31,31,37,0,0
+1527421268344,39,40 /confirmation.php,200,OK,Thread Group 1-64,text,true,,9004,713,31,31,38,0,0
+1527421268345,39,38 /reserve.php,200,OK,Thread Group 1-70,text,true,,10603,593,31,31,38,0,0
+1527421268347,38,40 /confirmation.php,200,OK,Thread Group 1-63,text,true,,9004,714,31,31,38,0,0
+1527421268357,39,Logowanie,200,OK,Thread Group 1-61,text,true,,10335,122,31,31,38,0,0
+1527421268299,97,37 /,200,OK,Thread Group 1-74,text,true,,7949,416,30,30,68,0,1
+1527421268299,97,37 /,200,OK,Thread Group 1-73,text,true,,7949,416,30,30,68,0,1
+1527421268361,38,40 /confirmation.php,200,OK,Thread Group 1-48,text,true,,9004,713,30,30,37,0,0
+1527421268361,39,39 /purchase.php,200,OK,Thread Group 1-67,text,true,,9968,659,30,30,39,0,0
+1527421268372,39,38 /reserve.php,200,OK,Thread Group 1-72,text,true,,10587,591,30,30,38,0,0
+1527421268374,37,38 /reserve.php,200,OK,Thread Group 1-71,text,true,,10627,602,30,30,36,0,0
+1527421268375,39,40 /confirmation.php,200,OK,Thread Group 1-65,text,true,,9004,713,30,30,39,0,0
+1527421268326,96,37 /,200,OK,Thread Group 1-76,text,true,,7949,416,30,30,66,0,1
+1527421268383,39,Logowanie,200,OK,Thread Group 1-64,text,true,,10337,122,30,30,38,0,0
+1527421268383,40,39 /purchase.php,200,OK,Thread Group 1-69,text,true,,9968,659,30,30,39,0,0
+1527421268385,38,39 /purchase.php,200,OK,Thread Group 1-70,text,true,,9970,661,29,29,37,0,0
+1527421268325,98,37 /,200,OK,Thread Group 1-75,text,true,,7949,416,29,29,69,0,1
+1527421268182,242,Logowanie,200,OK,Thread Group 1-45,text,true,,10339,122,29,29,40,0,0
+1527421268185,239,Logowanie,200,OK,Thread Group 1-47,text,true,,10337,122,29,29,41,0,0
+1527421268397,37,38 /reserve.php,200,OK,Thread Group 1-73,text,true,,10563,588,27,27,37,0,0
+1527421268397,38,38 /reserve.php,200,OK,Thread Group 1-74,text,true,,10579,590,27,27,37,0,0
+1527421268202,238,Logowanie,200,OK,Thread Group 1-33,text,true,,10337,122,27,27,38,0,0
+1527421268401,39,40 /confirmation.php,200,OK,Thread Group 1-67,text,true,,9004,713,26,26,39,0,0
+1527421268399,41,Logowanie,200,OK,Thread Group 1-48,text,true,,10341,122,26,26,40,0,0
+1527421268349,98,37 /,200,OK,Thread Group 1-77,text,true,,7949,416,25,25,68,0,1
+1527421268351,97,37 /,200,OK,Thread Group 1-78,text,true,,7949,416,25,25,68,0,1
+1527421268411,40,39 /purchase.php,200,OK,Thread Group 1-71,text,true,,9974,665,25,25,40,0,0
+1527421268411,40,39 /purchase.php,200,OK,Thread Group 1-72,text,true,,9966,657,25,25,39,0,0
+1527421268211,244,Logowanie,200,OK,Thread Group 1-50,text,true,,10337,122,25,25,38,0,0
+1527421268423,38,40 /confirmation.php,200,OK,Thread Group 1-69,text,true,,9004,714,24,24,37,0,0
+1527421268424,37,38 /reserve.php,200,OK,Thread Group 1-75,text,true,,10603,593,24,24,37,0,0
+1527421268422,41,38 /reserve.php,200,OK,Thread Group 1-76,text,true,,10627,602,24,24,38,0,0
+1527421268423,41,40 /confirmation.php,200,OK,Thread Group 1-70,text,true,,9004,714,24,24,41,0,0
+1527421268233,238,Logowanie,200,OK,Thread Group 1-52,text,true,,10333,122,24,24,43,0,0
+1527421268376,96,37 /,200,OK,Thread Group 1-80,text,true,,7949,416,23,23,67,0,1
+1527421268434,40,39 /purchase.php,200,OK,Thread Group 1-73,text,true,,9968,659,23,23,39,0,0
+1527421268435,39,39 /purchase.php,200,OK,Thread Group 1-74,text,true,,9968,659,23,23,38,0,0
+1527421268448,37,38 /reserve.php,200,OK,Thread Group 1-77,text,true,,10587,591,23,23,36,0,0
+1527421268448,39,38 /reserve.php,200,OK,Thread Group 1-78,text,true,,10563,588,23,23,38,0,0
+1527421268451,38,40 /confirmation.php,200,OK,Thread Group 1-71,text,true,,9004,713,23,23,38,0,0
+1527421268463,39,39 /purchase.php,200,OK,Thread Group 1-76,text,true,,9974,665,23,23,39,0,0
+1527421268464,39,Logowanie,200,OK,Thread Group 1-70,text,true,,10345,122,23,23,39,0,0
+1527421268473,38,38 /reserve.php,200,OK,Thread Group 1-80,text,true,,10603,593,22,22,37,0,0
+1527421268474,39,40 /confirmation.php,200,OK,Thread Group 1-73,text,true,,9004,713,22,22,38,0,0
+1527421268475,38,40 /confirmation.php,200,OK,Thread Group 1-74,text,true,,9004,714,22,22,38,0,0
+1527421268277,241,Logowanie,200,OK,Thread Group 1-56,text,true,,10333,122,22,22,39,0,0
+1527421268487,38,39 /purchase.php,200,OK,Thread Group 1-78,text,true,,9968,659,21,21,38,0,0
+1527421268485,40,39 /purchase.php,200,OK,Thread Group 1-77,text,true,,9966,657,21,21,40,0,0
+1527421268490,39,Logowanie,200,OK,Thread Group 1-71,text,true,,10337,122,21,21,39,0,0
+1527421268503,38,40 /confirmation.php,200,OK,Thread Group 1-76,text,true,,9004,713,20,20,38,0,0
+1527421268308,241,Logowanie,200,OK,Thread Group 1-57,text,true,,10337,122,20,20,39,0,0
+1527421268513,42,Logowanie,200,OK,Thread Group 1-73,text,true,,10337,122,19,19,41,0,0
+1527421268526,37,40 /confirmation.php,200,OK,Thread Group 1-78,text,true,,9004,713,18,18,37,0,0
+1527421268526,38,40 /confirmation.php,200,OK,Thread Group 1-77,text,true,,9004,713,18,18,38,0,0
+1527421268332,248,39 /purchase.php,200,OK,Thread Group 1-66,text,true,,9970,661,18,18,38,0,0
+1527421268336,245,Logowanie,200,OK,Thread Group 1-59,text,true,,10343,122,18,18,39,0,0
+1527421268565,39,Logowanie,200,OK,Thread Group 1-77,text,true,,10339,122,17,17,39,0,0
+1527421268564,40,Logowanie,200,OK,Thread Group 1-78,text,true,,10337,122,17,17,40,0,0
+1527421268357,249,Logowanie,200,OK,Thread Group 1-62,text,true,,10339,122,15,15,39,0,0
+1527421268358,249,39 /purchase.php,200,OK,Thread Group 1-68,text,true,,9966,657,15,15,37,0,0
+1527421268385,242,Logowanie,200,OK,Thread Group 1-63,text,true,,10345,122,14,14,39,0,0
+1527421268607,39,40 /confirmation.php,200,OK,Thread Group 1-68,text,true,,9004,713,13,13,39,0,0
+1527421268414,240,Logowanie,200,OK,Thread Group 1-65,text,true,,10337,122,13,13,38,0,0
+1527421268375,299,37 /,200,OK,Thread Group 1-79,text,true,,7949,416,12,12,69,0,2
+1527421268647,39,Logowanie,200,OK,Thread Group 1-68,text,true,,10343,122,12,12,39,0,0
+1527421268440,250,Logowanie,200,OK,Thread Group 1-67,text,true,,10336,122,11,11,43,0,0
+1527421268461,243,Logowanie,200,OK,Thread Group 1-69,text,true,,10337,122,10,10,39,0,0
+1527421268675,39,38 /reserve.php,200,OK,Thread Group 1-79,text,true,,10579,590,9,9,38,0,0
+1527421268514,239,Logowanie,200,OK,Thread Group 1-74,text,true,,10345,122,9,9,38,0,0
+1527421268511,242,39 /purchase.php,200,OK,Thread Group 1-80,text,true,,9970,661,9,9,37,0,0
+1527421268714,40,39 /purchase.php,200,OK,Thread Group 1-79,text,true,,9968,659,8,8,40,0,0
+1527421268541,243,Logowanie,200,OK,Thread Group 1-76,text,true,,10337,122,8,8,40,0,0
+1527421268753,39,40 /confirmation.php,200,OK,Thread Group 1-80,text,true,,9004,714,7,7,38,0,0
+1527421268754,40,40 /confirmation.php,200,OK,Thread Group 1-79,text,true,,9004,714,7,7,39,0,0
+1527421268792,40,Logowanie,200,OK,Thread Group 1-80,text,true,,10339,122,7,7,40,0,0
+1527421268794,255,Logowanie,200,OK,Thread Group 1-79,text,true,,10337,122,6,6,39,0,0
+1527421268257,1310,Logowanie,200,OK,Thread Group 1-54,text,true,,10337,122,5,5,1309,0,0
+1527421267677,1977,38 /reserve.php,200,OK,Thread Group 1-19,text,true,,10579,590,4,4,1976,0,0
+1527421269654,99,39 /purchase.php,200,OK,Thread Group 1-19,text,true,,9968,659,4,4,70,0,1
+1527421269753,39,40 /confirmation.php,200,OK,Thread Group 1-19,text,true,,9004,714,4,4,39,0,0
+1527421269793,39,Logowanie,200,OK,Thread Group 1-19,text,true,,10337,122,4,4,39,0,0
+1527421268581,1252,40 /confirmation.php,200,OK,Thread Group 1-66,text,true,,9004,714,3,3,1251,0,0
+1527421269834,40,Logowanie,200,OK,Thread Group 1-66,text,true,,10337,122,3,3,39,0,0
+1527421268451,1778,40 /confirmation.php,200,OK,Thread Group 1-72,text,true,,9004,713,2,2,1778,0,0
+1527421270229,40,Logowanie,200,OK,Thread Group 1-72,text,true,,10335,122,2,2,39,0,0
+1527421268462,2211,39 /purchase.php,200,OK,Thread Group 1-75,text,true,,9970,661,1,1,2211,0,0
+1527421270674,98,40 /confirmation.php,200,OK,Thread Group 1-75,text,true,,9004,714,1,1,68,0,1
+1527421270772,41,Logowanie,200,OK,Thread Group 1-75,text,true,,10345,122,1,1,40,0,0
